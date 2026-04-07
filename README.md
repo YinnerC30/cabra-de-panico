@@ -74,6 +74,7 @@ cabra-de-panico/
 ├── cabra_gritando.mp3
 ├── cabra.png
 ├── README.md
+├── LICENSE
 └── .gitignore
 ```
 
@@ -81,4 +82,4 @@ Las carpetas `build/` y `dist/` no se suben a Git (están en `.gitignore`).
 
 ## Licencia
 
-Especifica aquí la licencia que quieras usar para el proyecto (por ejemplo MIT), o elimina esta sección si no aplica.
+Este proyecto se publica bajo la licencia [MIT](LICENSE).
