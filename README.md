@@ -1,6 +1,6 @@
 # Cabra de pánico
 
-Aplicación mínima para **Windows** que permanece en la **bandeja del sistema** (junto al reloj). Al hacer **clic izquierdo** en el icono reproduce un sonido (`cabra_gritando.mp3`). El **clic derecho** abre un menú con *Reproducir* y *Salir*.
+Aplicación mínima para **Windows** que permanece en la **bandeja del sistema** (junto al reloj). Al hacer **clic izquierdo** en el icono reproduce un sonido (`cabra_gritando.mp3`). El **clic derecho** abre un menú con _Reproducir_ y _Salir_.
 
 Ideal como broma o acceso rápido a un efecto de sonido sin ventana principal.
 
@@ -11,12 +11,12 @@ Ideal como broma o acceso rápido a un efecto de sonido sin ventana principal.
 
 ## Recursos incluidos
 
-| Archivo | Uso |
-|---------|-----|
-| `main.py` | Punto de entrada de la aplicación |
+| Archivo              | Uso                                        |
+| -------------------- | ------------------------------------------ |
+| `main.py`            | Punto de entrada de la aplicación          |
 | `cabra_gritando.mp3` | Audio que se reproduce al activar el icono |
-| `cabra.png` | Icono del área de notificaciones |
-| `requirements.txt` | Dependencias Python |
+| `cabra.png`          | Icono del área de notificaciones           |
+| `requirements.txt`   | Dependencias Python                        |
 
 Estos tres últimos deben vivir **en la misma carpeta** que `main.py` (o empaquetarse con PyInstaller como se indica abajo).
 
